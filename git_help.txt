@@ -1,0 +1,5 @@
+git add readme.md
+git commit -m "first commit"
+git remote add origin https://github.com/alex198373/alex.git
+git push -u origin master
+
